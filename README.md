@@ -35,6 +35,14 @@ different times during the day for the same operating point.
 </div>
 
 
+By analysing the data, one can obtain this information ( see the notebook and presentation)
+- There are 3184 individual operating sites
+- The data is measured from January 2016 to December 2016
+- Therefore, the expected number of days between the start and end dates is 344
+- The number of individual days in the data set - 291
+- And there are 53 days where no data was recorded
+
+
 
 
 
