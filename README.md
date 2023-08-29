@@ -49,18 +49,17 @@ Plot 1: General distribution of Zugfahrten (Train journey/runs) and Verspätungs
 <img src="Interactive_plots/plt1.png" alt="overview" width="600"/>
 </div>
 
+#### Interpretation Plot1:
+Distribution of Train Runs: The histogram shows that most operating points have a relatively low number of train runs, with a few exceptions having a high number of train runs. The distribution is highly skewed to the right, indicating that the majority of operating points experience fewer train runs.
+
+Distribution of Delay Minutes: Similarly, the majority of the data points have lower delay minutes. The distribution is also skewed to the right, indicating that most of the time, the delay minutes at the operating points are low, but there are some instances where the delay minutes are very high. These could potentially be due to significant disruptions.
+
 
 ## By Day of the Week
 Plot 2: Average train journeys and delay minutes across days of the week
 <div align="center">
 <img src="Interactive_plots/plt2.png" alt="overview" width="600"/>
 </div>
-
-#### Comparison of  Plot 3.1 and Plot 6 ----> indicate a couple of possibilities:
-
-**Lower Train Frequency on Monday:** Monday may have fewer train journeys overall compared to Tuesday. With fewer trains running, any delays experienced by those trains could have a more significant impact on the average delay per train. Even if the average delay per train is higher on Monday, the lower number of train journeys results in a lower overall delay compared to Tuesday.
-
-**Higher Delays on Critical Trains:** It's possible that on Monday, certain critical train journeys or routes experience higher delays compared to Tuesday. While the average delay per train might be higher on Monday, it doesn't necessarily mean that all train journeys are affected. Instead, specific trains or routes might be encountering significant delays, skewing the average for that day.
 
 
 Plot 2.1: The FacetGrid plot  shows the relationship between the number of train runs and delay minutes for each day of the week. Each subplot is a scatter plot of train runs versus delay minutes for a specific day. This allows us to see if the relationship varies depending on the day of the week.
@@ -104,7 +103,11 @@ Plot 6: Average Delay per train run over the months of the year
 </div>
 
 
+### Comparison of  Plot 2 and Plot 5 ----> indicate a couple of possibilities:
 
+**Lower Train Frequency on Monday:** Monday may have fewer train journeys overall compared to Tuesday. With fewer trains running, any delays experienced by those trains could have a more significant impact on the average delay per train. Even if the average delay per train is higher on Monday, the lower number of train journeys results in a lower overall delay compared to Tuesday.
+
+**Higher Delays on Critical Trains:** It's possible that on Monday, certain critical train journeys or routes experience higher delays compared to Tuesday. While the average delay per train might be higher on Monday, it doesn't necessarily mean that all train journeys are affected. Instead, specific trains or routes might be encountering significant delays, skewing the average for that day.
 
 
 
