@@ -43,7 +43,7 @@ By analyzing the data, one can obtain this information ( see the notebook and pr
 - And there are 53 days where no data was recorded
 
 
-## Analyze the regularities in the data.
+### Analyze the regularities in the data.
 Plot 1: General distribution of Zugfahrten (Train journey/runs) and Verspätungsminuten (Delay minutes):
 <div align="center">
 <img src="Interactive_plots/plt1.png" alt="overview" width="600"/>
