@@ -111,7 +111,7 @@ Average Train Journeys ("Zugfahrten_mean"): The average number of train journeys
 
 Average Delay Minutes ("Verspätungsminuten_mean"): The average delay minutes vary over the months, with the highest average delay minutes occurring in June ("Jun") and the lowest in August ("Aug").
 
-Comparison Between Train Journeys and Delays: The trends in train journeys and delay minutes do not match exactly. For example, the highest average number of train journeys occurs in September, but the highest average delay minutes occur in June. Similarly, the lowest average number of train journeys is in August, and the lowest average delay minutes occur in August.
+Comparison Between Train Journeys and Delays: The trends in train journeys and delay minutes do not match exactly. For example, the highest average number of train journeys occurs in September, but the highest average delay minutes occur in June. Similarly, the lowest average number of train journeys is in August, and the lowest average delay minutes also occur in August.
 
 
 ## By Delay per Train
@@ -149,6 +149,15 @@ Plot 6: Average Delay per train run over the months of the year
 
 
 
+### Challenges / Future directions
+
+
+Day frequency – how often/much the depot is used 
+External parameters – season, holidays, weather….
+The number of depots is too high to analyze individually 
+If there could be other indicators/parameters to group the depots for analysis
+Duplicate – we can’t say if it is a duplicate/data recording on the same day with exactly the same parameters — more info is needed, train numbers, etc. 
+Prediction – using two or more variables- day of the week, the expected number of train runs  -- predict the delay time
 
 
 
