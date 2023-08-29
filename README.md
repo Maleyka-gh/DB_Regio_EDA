@@ -1,11 +1,11 @@
 
-## Exploratory Data Analysis Deutsche Bahn Cargo
+### Exploratory Data Analysis Deutsche Bahn Cargo
 
 
-###$ Objective:
+#### Objective:
 - The goal is to find if there are any regularies, or trends(patterns) in a sample dataset from DB Cargo.
 
-###$ Dataset
+#### Dataset
 
 Actual DB Cargo traffic data at Bst8 level
 
