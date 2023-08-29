@@ -33,7 +33,7 @@ This means that the number of train journeys and delay minutes have been recorde
 different times during the day for the same operating point.
 
 <div align="center">
-<img src="Interactive_plots/plt0.png" alt="overview" width="700"/>
+<img src="Interactive_plots/plt0.png" alt="overview" width="400"/>
 </div>
 
 
