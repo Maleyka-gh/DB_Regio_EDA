@@ -32,6 +32,11 @@ and another with 30 train journeys and 0 delay minutes
 This means that the number of train journeys and delay minutes have been recorded at
 different times during the day for the same operating point.
 
+<div align="center">
+<img src="Interactive_plots/plt0.png" alt="overview" width="400"/>
+</div>
+
+
 
 
 
