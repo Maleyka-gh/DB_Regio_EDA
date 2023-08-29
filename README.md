@@ -88,12 +88,31 @@ Plot 2.1: The FacetGrid plot  shows the relationship between the number of train
 
 
 
+
+#### Interpretation Plot2.1:
+- On Monday and Tuesday, we don’t observe very high delays, most of the depots have
+the fewer train runs
+- On peak days – on Wednesday and Thursday, we observe some depots with the highest
+delay
+- At the weekend – on Saturday and Sunday, there is less delay and less depot with high
+train trains
+
+
 ## By Month of the Year
 Plot 3: Average train runs and delay minutes over the months of the year
 
 <div align="center">
 <img src="Interactive_plots/plt3.png" alt="overview" width="600"/>
 </div>
+
+
+#### Interpretation Plot3:
+Average Train Journeys ("Zugfahrten_mean"): The average number of train journeys varies slightly over the months, but there's no clear pattern. The highest average number of train journeys occurs in September ("Sep"), while the lowest average is in August ("Aug").
+
+Average Delay Minutes ("Verspätungsminuten_mean"): The average delay minutes vary over the months, with the highest average delay minutes occurring in June ("Jun") and the lowest in August ("Aug").
+
+Comparison Between Train Journeys and Delays: The trends in train journeys and delay minutes do not match exactly. For example, the highest average number of train journeys occurs in September, but the highest average delay minutes occur in June. Similarly, the lowest average number of train journeys is in August, and the lowest average delay minutes occur in August.
+
 
 ## By Delay per Train
 Plot 4: Average Delay per train run over the time
