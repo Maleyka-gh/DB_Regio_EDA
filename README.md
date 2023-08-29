@@ -26,10 +26,8 @@ Interpretation: Train journeys and delay minutes are essential indicators for th
 
 The table below shows the entries in the dataset where there are multiple records
 for the same operating point on the same day.
-For example, for the operating point with ID 80000000 on 2016-01-15,
-There are two entries: one with 69 train journeys and 0 delay minutes
-and another with 30 train journeys and 0 delay minutes
-This means that the number of train journeys and delay minutes have been recorded at
+For example, for the operating point with ID 80000000 on 2016-01-02, there are 31 train journeys with 0 delay minutes and 28
+train journeys with 0 delays. This means that the number of train journeys and delay minutes have been recorded at
 different times during the day for the same operating point.
 
 <div align="center">
