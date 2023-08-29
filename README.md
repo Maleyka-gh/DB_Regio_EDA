@@ -2,7 +2,8 @@
 ## Exploratory Data Analysis Deutsche Bahn Cargo
 
 
-### The goal is to find if there are any regularies, or trends(patterns) in a sample dataset from DB Cargo.
+### The goal of EDA:
+- The goal is to find if there are any regularies, or trends(patterns) in a sample dataset from DB Cargo.
 
 ### Dataset
 
