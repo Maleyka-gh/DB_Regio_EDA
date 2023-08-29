@@ -4,12 +4,12 @@
 
 🎯 Objective:
 To identify patterns or regularities within a sample dataset from DB Cargo.
-#### Dataset
+
+#### Dataset (Actual DB Cargo traffic data at Bst8 level)
 
 - The data provided here represent the number of train journeys and delay minutes per day
 and operating point. All Bst over which at least 10 train journeys took place were taken into
 account.
-- Actual DB Cargo traffic data at Bst8 level
 
 - Interpretation: Train journeys and delay minutes are essential indicators for the traffic at a service point. The train journeys show how heavily the operating point is used. The delay minutes that occur at a service point show whether there were disruptions at this service point, and if so, to what extent.
 
