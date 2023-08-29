@@ -111,7 +111,7 @@ Average Train Journeys ("Zugfahrten_mean"): The average number of train journeys
 
 Average Delay Minutes ("Verspätungsminuten_mean"): The average delay minutes vary over the months, with the highest average delay minutes occurring in June ("Jun") and the lowest in August ("Aug").
 
-Comparison Between Train Journeys and Delays: The trends in train journeys and delay minutes do not match exactly. For example, the highest average number of train journeys occurs in September, but the highest average delay minutes occur in June. Similarly, the lowest average number of train journeys is in August, and the lowest average delay minutes also occur in August.
+Comparison Between Train Journeys and Delays: The trends in train journeys and delay minutes do not match exactly. For example, the highest average number of train journeys occurs in September, but the highest average delay minutes occur in June. Similarly, the lowest average number of train journeys is in August, and the lowest average delay minutes also occur in August. This suggests that while there is some correlation between the number of train journeys and delay minutes (e.g., both are low in August), the relationship is not straightforward or linear. Other factors may influence delay minutes, such as weather conditions, maintenance schedules, or other seasonal variations that affect train operations.
 
 
 ## By Delay per Train
@@ -136,9 +136,21 @@ Plot 6: Average Delay per train run over the months of the year
 
 
 ## By the Operating Point
+Plot 7: Operating points based on their daily usage frequency
+<div align="center">
+<img src="Interactive_plots/group.png" alt="overview" width="600"/>
+</div>
+
 <div align="center">
 <img src="Interactive_plots/plt7.png" alt="overview" width="600"/>
 </div>
+
+
+#### Interpretation Plot7:
+The depots/ op having higher delays & train runs belong the the G4 – these are  the depots  that are used most of the days. 
+G3 – green and G4  are overlapping , means that there are some depots that are used less number of days  but still having the same number of train runs and delay minutes. 
+Helpful -   if there is a maintenance – we should focus on the depots that are used the most frequently. 
+
 
 
 ### Comparison of  Plot 2 and Plot 5 ----> indicate a couple of possibilities:
