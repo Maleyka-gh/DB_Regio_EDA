@@ -62,6 +62,28 @@ Plot 2: Average train journeys and delay minutes across days of the week
 </div>
 
 
+
+#### Interpretation Plot2: 
+Average train journeys: The average number of train journeys is 
+lowest on Sundays  and highest on Wednesdays. This indicates that
+that train use is lower at weekends and peaks in the middle of the week.
+Average delay minutes: The average delay minutes are also lowest on
+Sundays and highest on Thursdays. This indicates that
+delays are more likely to occur on weekdays, possibly due to higher train use.
+Comparison between train journeys and delays: The trends for train journeys and
+minutes of delay are similar, with both lower at weekends and higher on weekdays.
+This indicates a positive correlation between the
+number of train journeys and the number of delay minutes, i.e., more train journeys could lead to more delays.
+
+
+
+Comparison between train journeys and delays: The trends for train journeys and
+minutes of delay are similar, with both lower at weekends and higher on weekdays.
+higher on weekdays. This points to a positive correlation between the number of
+number of train journeys and the number of delay minutes, i.e. more train journeys could lead to more delays.
+lead to more delays.
+
+
 Plot 2.1: The FacetGrid plot  shows the relationship between the number of train runs and delay minutes for each day of the week. Each subplot is a scatter plot of train runs versus delay minutes for a specific day. This allows us to see if the relationship varies depending on the day of the week.
 <div align="center">
 <img src="Interactive_plots/plt2.1.png" alt="overview" width="600"/>
