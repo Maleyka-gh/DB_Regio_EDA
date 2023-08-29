@@ -137,9 +137,12 @@ Plot 6: Average Delay per train run over the months of the year
 
 ## By the Operating Point
 Plot 7: Operating points based on their daily usage frequency
+
 <div align="center">
 <img src="Interactive_plots/group.png" alt="overview" width="600"/>
 </div>
+
+
 
 <div align="center">
 <img src="Interactive_plots/plt7.png" alt="overview" width="600"/>
@@ -147,9 +150,9 @@ Plot 7: Operating points based on their daily usage frequency
 
 
 #### Interpretation Plot7:
-The depots/ op having higher delays & train runs belong the the G4 – these are  the depots  that are used most of the days. 
-G3 – green and G4  are overlapping , means that there are some depots that are used less number of days  but still having the same number of train runs and delay minutes. 
-Helpful -   if there is a maintenance – we should focus on the depots that are used the most frequently. 
+The depots/ op having higher delays & train runs belong to the G4 – these are  the depots  that are used most of the days. 
+G3 – green and G4  are overlapping, means that there are some depots that are used fewer days  but still have the same number of train runs and delay minutes. 
+Helpful -   if there is maintenance – we should focus on the depots that are used the most frequently. 
 
 
 
