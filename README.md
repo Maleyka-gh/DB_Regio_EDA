@@ -152,12 +152,12 @@ Plot 6: Average Delay per train run over the months of the year
 ### Challenges / Future directions
 
 
-Day frequency – how often/much the depot is used 
-External parameters – season, holidays, weather….
-The number of depots is too high to analyze individually 
-If there could be other indicators/parameters to group the depots for analysis
-Duplicate – we can’t say if it is a duplicate/data recording on the same day with exactly the same parameters — more info is needed, train numbers, etc. 
-Prediction – using two or more variables- day of the week, the expected number of train runs  -- predict the delay time
+- Day frequency – how often/much the depot is used 
+- External parameters – season, holidays, weather….
+- The number of depots is too high to analyze individually 
+- If there could be other indicators/parameters to group the depots for analysis
+- Duplicate – we can’t say if it is a duplicate/data recording on the same day with exactly the same parameters — more info is needed, train numbers, etc. 
+- Prediction – using two or more variables- day of the week, the expected number of train runs  -- predict the delay time
 
 
 
