@@ -90,7 +90,7 @@ Plot 2.1: The FacetGrid plot  shows the relationship between the number of train
 
 
 #### Interpretation Plot2.1:
-- On Monday and Tuesday, we don’t observe very high delays, most of the depots have
+- On Monday and Tuesday, we don’t observe very high delays. Most of the depots have
 the fewer train runs
 - On peak days – on Wednesday and Thursday, we observe some depots with the highest
 delay
