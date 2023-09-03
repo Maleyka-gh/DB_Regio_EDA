@@ -139,7 +139,7 @@ Plot 6: Average Delay per train run over the months of the year
 Plot 7: Operating points based on their daily usage frequency
 
 <div align="center">
-<img src="Interactive_plots/group.png" alt="overview" width="600"/>
+<img src="Interactive_plots/group.PNG" alt="overview" width="400"/>
 </div>
 
 
