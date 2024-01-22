@@ -70,10 +70,6 @@ that train use is lower at weekends and peaks in the middle of the week.
 Average delay minutes: The average delay minutes are also lowest on
 Sundays and highest on Thursdays. This indicates that
 delays are more likely to occur on weekdays, possibly due to higher train use.
-Comparison between train journeys and delays: The trends for train journeys and
-minutes of delay are similar, with both lower at weekends and higher on weekdays.
-This indicates a positive correlation between the
-number of train journeys and the number of delay minutes, i.e., more train journeys could lead to more delays.
 
 Comparison between train journeys and delays: The trends for train journeys and
 minutes of delay are similar, with both lower at weekends and higher on weekdays.
